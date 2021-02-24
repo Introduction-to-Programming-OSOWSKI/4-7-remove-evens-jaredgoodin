@@ -8,4 +8,3 @@ def removeEvens(k):
 
     return newList
 
-print(removeEvens([1,2,3,4,5]))
